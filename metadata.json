@@ -1,0 +1,5 @@
+{
+  "name": "PhyloGenius - Classification Phylogénétique",
+  "description": "Générateur d'exercices interactifs de classification phylogénétique pour le collège. Comprends la création de matrices de caractères et la construction d'arbres (cladogrammes) basés sur l'IA.",
+  "requestFramePermissions": []
+}
